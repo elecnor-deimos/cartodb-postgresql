@@ -1,3 +1,7 @@
+0.15.0 (2016-03-09)
+-------------------
+* Add support for cartodb_id text columns in _CDB_Has_Usable_Primary_ID function [#202](https://github.com/CartoDB/cartodb-postgresql/issues/202)
+
 0.14.1 (2016-03-07)
 -------------------
 * Fully qualify table names in cache cdb_invalidate_varnish calls [#198](https://github.com/CartoDB/cartodb-postgresql/issues/198)
